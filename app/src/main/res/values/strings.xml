@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Aadhar-Verifier</string>
+    <string name="scan">Scan</string>
 </resources>
