@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Data/Hackathon/Finals/Aadhar-Verifier/app/src/main/res/layout/activity_scan.xml" value="0.2" />
+        <entry key="..\:/Data/Hackathon/Finals/Aadhar-Verifier/app/src/main/res/layout/activity_unverified.xml" value="0.2" />
+        <entry key="..\:/Data/Hackathon/Finals/Aadhar-Verifier/app/src/main/res/layout/activity_verified.xml" value="0.2" />
         <entry key="..\:/Data/Hackathon/Project/Aadhar-Verifier/app/src/main/res/drawable/ic_verified.xml" value="0.20462962962962963" />
         <entry key="..\:/Data/Hackathon/Project/Aadhar-Verifier/app/src/main/res/layout/activity_main.xml" value="0.1859375" />
         <entry key="..\:/Data/Hackathon/Project/Aadhar-Verifier/app/src/main/res/layout/activity_scan.xml" value="0.2" />

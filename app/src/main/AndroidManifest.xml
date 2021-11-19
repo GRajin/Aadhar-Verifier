@@ -4,6 +4,7 @@
     package="com.bulletproof.aadhar_verifier">
 
     <uses-permission android:name="android.permission.CAMERA" />
+    <uses-permission android:name="android.permission.NFC" />
 
     <application
         android:allowBackup="true"
